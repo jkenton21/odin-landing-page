@@ -46,3 +46,24 @@ li {
     margin-left: 100px;
     margin-right: 100px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.index {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+h2 {
+    font-size: 36px;
+    font-style: bold;
+    color: #1F2937;
+}
